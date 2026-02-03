@@ -6,5 +6,5 @@ import lombok.Data;
 public class DrinkItem {
 
 	String name;
-	String type; 
+	String type;
 }
